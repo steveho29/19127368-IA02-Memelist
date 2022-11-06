@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/steveho29/19127368-IA02-Memelist/static/css/main.bf13e155.css",
+    "main.js": "/steveho29/19127368-IA02-Memelist/static/js/main.0f321d00.js",
+    "static/js/787.5de25646.chunk.js": "/steveho29/19127368-IA02-Memelist/static/js/787.5de25646.chunk.js",
+    "index.html": "/steveho29/19127368-IA02-Memelist/index.html",
+    "main.bf13e155.css.map": "/steveho29/19127368-IA02-Memelist/static/css/main.bf13e155.css.map",
+    "main.0f321d00.js.map": "/steveho29/19127368-IA02-Memelist/static/js/main.0f321d00.js.map",
+    "787.5de25646.chunk.js.map": "/steveho29/19127368-IA02-Memelist/static/js/787.5de25646.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf13e155.css",
+    "static/js/main.0f321d00.js"
+  ]
+}
